@@ -21,6 +21,6 @@ Se um número fora desse intervalo for inserido, o sistema avisa que é um "Valo
 Abaixo está a execução do código no console, demonstrando a entrada do valor e a resposta correta do sistema:
 
 ![Demonstração da Execução]
-(1.png) 
-(2.png)
+(/1.png) 
+(/2.png)
 
