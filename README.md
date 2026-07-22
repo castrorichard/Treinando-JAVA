@@ -20,5 +20,7 @@ Se um número fora desse intervalo for inserido, o sistema avisa que é um "Valo
 ## 📸 Demonstração
 Abaixo está a execução do código no console, demonstrando a entrada do valor e a resposta correta do sistema:
 
-![Demonstração da Execução](1.png) (2.png)
+![Demonstração da Execução](1.png)
+
+![Demonstração da Execução](2.png)
 
